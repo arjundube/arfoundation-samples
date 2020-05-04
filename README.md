@@ -44,3 +44,43 @@ This distinciton is temporary. Once iOS 13 is no longer in beta, the ARKit packa
 3. Open your choice of sample scene.
 
 4. See the [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@latest?preview=1) for usage instructions and more information.
+
+## References
+
+### Tutorials
+
+Getting Started with Unity: https://learn.unity.com/course/getting-started-with-unity
+
+Getting Started with AR Foundation: https://www.youtube.com/watch?v=Ml2UakwRxjk
+
+Video tutorial for using this repo: https://www.youtube.com/watch?v=7dvy7L9cDfE
+
+### Articles
+
+Unity’s Handheld AR Ecosystem: https://blogs.unity3d.com/2018/12/18/unitys-handheld-ar-ecosystem-ar-foundation-arcore-and-arkit
+
+AR Foundation support for ARKit 3: https://blogs.unity3d.com/2019/06/06/ar-foundation-support-for-arkit-3/
+
+### Repositories
+
+AR Foundation samples: https://github.com/Unity-Technologies/arfoundation-samples
+
+Graffiti App: https://github.com/arjundube/arfoundation-samples
+
+### APIs
+
+Unity Primitives: https://docs.unity3d.com/Manual/PrimitiveObjects.html
+
+Unity Buttons: https://docs.unity3d.com/Manual/script-Button.html
+
+Unity Tags and Layers: https://docs.unity3d.com/Manual/class-TagManager.html
+
+Unity MeshRenderer: https://docs.unity3d.com/Manual/class-MeshRenderer.html
+
+Unity TrailRenderer: https://docs.unity3d.com/Manual/class-TrailRenderer.html
+
+AR Foundation: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.2/manual/index.html
+
+AR Subsystems: https://docs.unity3d.com/Packages/com.unity.xr.arsubsystems@2.1/manual/index.html
+
+Android Developer Mode https://developer.android.com/studio/debug/dev-options
