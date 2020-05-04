@@ -65,8 +65,6 @@ AR Foundation support for ARKit 3: https://blogs.unity3d.com/2019/06/06/ar-found
 
 AR Foundation samples: https://github.com/Unity-Technologies/arfoundation-samples
 
-Graffiti App: https://github.com/arjundube/arfoundation-samples
-
 ### APIs
 
 Unity Primitives: https://docs.unity3d.com/Manual/PrimitiveObjects.html
